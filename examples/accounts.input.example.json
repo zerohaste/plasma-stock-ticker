@@ -1,0 +1,790 @@
+{
+ "accounts": [
+  {
+   "id": "demo-checking",
+   "type": "checking",
+   "name": "Everyday Checking",
+   "institution": "Example Bank",
+   "mask": "1111",
+   "balance": 3184.27,
+   "available": 3142.09,
+   "transactions": [
+    {
+     "date": "2026-08-18",
+     "amount": -65.0,
+     "description": "Example Wireless",
+     "pending": false
+    },
+    {
+     "date": "2026-08-18",
+     "amount": -24.52,
+     "description": "Corner Grocery",
+     "pending": false
+    },
+    {
+     "date": "2026-08-19",
+     "amount": -56.48,
+     "description": "Coffee Spot",
+     "pending": false
+    },
+    {
+     "date": "2026-08-20",
+     "amount": -312.4,
+     "description": "Sample Auto Loan",
+     "pending": false
+    },
+    {
+     "date": "2026-08-21",
+     "amount": 2150.0,
+     "description": "ACME CORP PAYROLL",
+     "pending": false
+    },
+    {
+     "date": "2026-08-22",
+     "amount": -89.72,
+     "description": "City Power & Light",
+     "pending": false
+    },
+    {
+     "date": "2026-08-22",
+     "amount": -46.71,
+     "description": "Fuel Stop",
+     "pending": false
+    },
+    {
+     "date": "2026-08-23",
+     "amount": -47.24,
+     "description": "Pizza Place",
+     "pending": false
+    },
+    {
+     "date": "2026-08-24",
+     "amount": -30.53,
+     "description": "Pizza Place",
+     "pending": false
+    },
+    {
+     "date": "2026-08-29",
+     "amount": -83.25,
+     "description": "Coffee Spot",
+     "pending": false
+    },
+    {
+     "date": "2026-09-01",
+     "amount": -1450.0,
+     "description": "Maple Street Apartments Rent",
+     "pending": false
+    },
+    {
+     "date": "2026-09-04",
+     "amount": 2150.0,
+     "description": "ACME CORP PAYROLL",
+     "pending": false
+    },
+    {
+     "date": "2026-09-04",
+     "amount": -59.41,
+     "description": "Fuel Stop",
+     "pending": false
+    },
+    {
+     "date": "2026-09-07",
+     "amount": -16.95,
+     "description": "Fuel Stop",
+     "pending": false
+    },
+    {
+     "date": "2026-09-09",
+     "amount": -15.99,
+     "description": "StreamFlix",
+     "pending": false
+    },
+    {
+     "date": "2026-09-14",
+     "amount": -26.92,
+     "description": "Fuel Stop",
+     "pending": false
+    },
+    {
+     "date": "2026-09-15",
+     "amount": -36.92,
+     "description": "Hardware Depot",
+     "pending": false
+    },
+    {
+     "date": "2026-09-18",
+     "amount": 2150.0,
+     "description": "ACME CORP PAYROLL",
+     "pending": false
+    },
+    {
+     "date": "2026-09-18",
+     "amount": -65.0,
+     "description": "Example Wireless",
+     "pending": false
+    },
+    {
+     "date": "2026-09-18",
+     "amount": -93.35,
+     "description": "Corner Grocery",
+     "pending": false
+    },
+    {
+     "date": "2026-09-20",
+     "amount": -312.4,
+     "description": "Sample Auto Loan",
+     "pending": false
+    },
+    {
+     "date": "2026-09-20",
+     "amount": -40.39,
+     "description": "Hardware Depot",
+     "pending": false
+    },
+    {
+     "date": "2026-09-22",
+     "amount": -95.7,
+     "description": "City Power & Light",
+     "pending": false
+    },
+    {
+     "date": "2026-09-22",
+     "amount": -58.32,
+     "description": "Coffee Spot",
+     "pending": false
+    },
+    {
+     "date": "2026-09-23",
+     "amount": -41.06,
+     "description": "Hardware Depot",
+     "pending": false
+    },
+    {
+     "date": "2026-09-30",
+     "amount": -70.22,
+     "description": "Pizza Place",
+     "pending": false
+    },
+    {
+     "date": "2026-10-01",
+     "amount": -1450.0,
+     "description": "Maple Street Apartments Rent",
+     "pending": false
+    },
+    {
+     "date": "2026-10-02",
+     "amount": 2150.0,
+     "description": "ACME CORP PAYROLL",
+     "pending": false
+    },
+    {
+     "date": "2026-10-03",
+     "amount": -44.02,
+     "description": "Coffee Spot",
+     "pending": false
+    },
+    {
+     "date": "2026-10-04",
+     "amount": -50.32,
+     "description": "Fuel Stop",
+     "pending": false
+    },
+    {
+     "date": "2026-10-07",
+     "amount": -35.86,
+     "description": "Fuel Stop",
+     "pending": false
+    },
+    {
+     "date": "2026-10-09",
+     "amount": -15.99,
+     "description": "StreamFlix",
+     "pending": false
+    },
+    {
+     "date": "2026-10-11",
+     "amount": -45.34,
+     "description": "Coffee Spot",
+     "pending": false
+    },
+    {
+     "date": "2026-10-15",
+     "amount": -46.47,
+     "description": "Coffee Spot",
+     "pending": false
+    },
+    {
+     "date": "2026-10-16",
+     "amount": 2150.0,
+     "description": "ACME CORP PAYROLL",
+     "pending": false
+    },
+    {
+     "date": "2026-10-18",
+     "amount": -65.0,
+     "description": "Example Wireless",
+     "pending": false
+    },
+    {
+     "date": "2026-10-18",
+     "amount": -18.89,
+     "description": "Fuel Stop",
+     "pending": false
+    },
+    {
+     "date": "2026-10-19",
+     "amount": -31.37,
+     "description": "Hardware Depot",
+     "pending": false
+    },
+    {
+     "date": "2026-10-20",
+     "amount": -312.4,
+     "description": "Sample Auto Loan",
+     "pending": false
+    },
+    {
+     "date": "2026-10-21",
+     "amount": -35.4,
+     "description": "Fuel Stop",
+     "pending": false
+    },
+    {
+     "date": "2026-10-22",
+     "amount": -91.35,
+     "description": "City Power & Light",
+     "pending": false
+    },
+    {
+     "date": "2026-10-29",
+     "amount": -86.66,
+     "description": "Pizza Place",
+     "pending": false
+    },
+    {
+     "date": "2026-10-30",
+     "amount": 2150.0,
+     "description": "ACME CORP PAYROLL",
+     "pending": false
+    },
+    {
+     "date": "2026-11-01",
+     "amount": -1450.0,
+     "description": "Maple Street Apartments Rent",
+     "pending": false
+    },
+    {
+     "date": "2026-11-01",
+     "amount": -64.65,
+     "description": "Corner Grocery",
+     "pending": false
+    },
+    {
+     "date": "2026-11-02",
+     "amount": -93.73,
+     "description": "Hardware Depot",
+     "pending": false
+    },
+    {
+     "date": "2026-11-03",
+     "amount": -40.22,
+     "description": "Corner Grocery",
+     "pending": false
+    },
+    {
+     "date": "2026-11-04",
+     "amount": -59.04,
+     "description": "Pizza Place",
+     "pending": false
+    },
+    {
+     "date": "2026-11-05",
+     "amount": -42.18,
+     "description": "Corner Grocery",
+     "pending": false
+    },
+    {
+     "date": "2026-11-06",
+     "amount": -29.26,
+     "description": "Hardware Depot",
+     "pending": false
+    },
+    {
+     "date": "2026-11-07",
+     "amount": -32.94,
+     "description": "Coffee Spot",
+     "pending": false
+    },
+    {
+     "date": "2026-11-09",
+     "amount": -15.99,
+     "description": "StreamFlix",
+     "pending": false
+    },
+    {
+     "date": "2026-11-10",
+     "amount": -52.51,
+     "description": "Hardware Depot",
+     "pending": false
+    },
+    {
+     "date": "2026-11-12",
+     "amount": -23.96,
+     "description": "Coffee Spot",
+     "pending": false
+    },
+    {
+     "date": "2026-11-13",
+     "amount": 2150.0,
+     "description": "ACME CORP PAYROLL",
+     "pending": false
+    },
+    {
+     "date": "2026-11-16",
+     "amount": -42.18,
+     "description": "Corner Grocery",
+     "pending": true
+    }
+   ]
+  },
+  {
+   "id": "demo-401k",
+   "type": "retirement",
+   "name": "Work 401(k)",
+   "institution": "Example Recordkeeper",
+   "mask": "2222",
+   "balance": 65962.17,
+   "history": [
+    {
+     "d": "2026-08-18",
+     "v": 58512.15
+    },
+    {
+     "d": "2026-08-19",
+     "v": 59505.3
+    },
+    {
+     "d": "2026-08-20",
+     "v": 59117.32
+    },
+    {
+     "d": "2026-08-21",
+     "v": 59624.53
+    },
+    {
+     "d": "2026-08-24",
+     "v": 60251.75
+    },
+    {
+     "d": "2026-08-25",
+     "v": 59910.84
+    },
+    {
+     "d": "2026-08-26",
+     "v": 59755.7
+    },
+    {
+     "d": "2026-08-27",
+     "v": 60352.7
+    },
+    {
+     "d": "2026-08-28",
+     "v": 61063.37
+    },
+    {
+     "d": "2026-08-31",
+     "v": 61534.82
+    },
+    {
+     "d": "2026-09-01",
+     "v": 60624.21
+    },
+    {
+     "d": "2026-09-02",
+     "v": 60541.48
+    },
+    {
+     "d": "2026-09-03",
+     "v": 60380.24
+    },
+    {
+     "d": "2026-09-04",
+     "v": 60640.7
+    },
+    {
+     "d": "2026-09-07",
+     "v": 60180.24
+    },
+    {
+     "d": "2026-09-08",
+     "v": 60075.74
+    },
+    {
+     "d": "2026-09-09",
+     "v": 59720.4
+    },
+    {
+     "d": "2026-09-10",
+     "v": 59308.63
+    },
+    {
+     "d": "2026-09-11",
+     "v": 59499.54
+    },
+    {
+     "d": "2026-09-14",
+     "v": 58841.74
+    },
+    {
+     "d": "2026-09-15",
+     "v": 58968.23
+    },
+    {
+     "d": "2026-09-16",
+     "v": 59279.22
+    },
+    {
+     "d": "2026-09-17",
+     "v": 58695.62
+    },
+    {
+     "d": "2026-09-18",
+     "v": 59152.05
+    },
+    {
+     "d": "2026-09-21",
+     "v": 59325.04
+    },
+    {
+     "d": "2026-09-22",
+     "v": 59808.87
+    },
+    {
+     "d": "2026-09-23",
+     "v": 59682.15
+    },
+    {
+     "d": "2026-09-24",
+     "v": 58452.48
+    },
+    {
+     "d": "2026-09-25",
+     "v": 58591.22
+    },
+    {
+     "d": "2026-09-28",
+     "v": 58165.61
+    },
+    {
+     "d": "2026-09-29",
+     "v": 58381.34
+    },
+    {
+     "d": "2026-09-30",
+     "v": 58927.25
+    },
+    {
+     "d": "2026-10-01",
+     "v": 58532.03
+    },
+    {
+     "d": "2026-10-02",
+     "v": 59173.53
+    },
+    {
+     "d": "2026-10-05",
+     "v": 59132.64
+    },
+    {
+     "d": "2026-10-06",
+     "v": 58777.87
+    },
+    {
+     "d": "2026-10-07",
+     "v": 58967.84
+    },
+    {
+     "d": "2026-10-08",
+     "v": 58964.45
+    },
+    {
+     "d": "2026-10-09",
+     "v": 59360.62
+    },
+    {
+     "d": "2026-10-12",
+     "v": 59664.72
+    },
+    {
+     "d": "2026-10-13",
+     "v": 59437.44
+    },
+    {
+     "d": "2026-10-14",
+     "v": 59868.13
+    },
+    {
+     "d": "2026-10-15",
+     "v": 60464.91
+    },
+    {
+     "d": "2026-10-16",
+     "v": 60435.32
+    },
+    {
+     "d": "2026-10-19",
+     "v": 61386.1
+    },
+    {
+     "d": "2026-10-20",
+     "v": 61421.94
+    },
+    {
+     "d": "2026-10-21",
+     "v": 61102.77
+    },
+    {
+     "d": "2026-10-22",
+     "v": 61637.19
+    },
+    {
+     "d": "2026-10-23",
+     "v": 61772.44
+    },
+    {
+     "d": "2026-10-26",
+     "v": 61608.79
+    },
+    {
+     "d": "2026-10-27",
+     "v": 61113.51
+    },
+    {
+     "d": "2026-10-28",
+     "v": 61572.67
+    },
+    {
+     "d": "2026-10-29",
+     "v": 61880.25
+    },
+    {
+     "d": "2026-10-30",
+     "v": 62767.6
+    },
+    {
+     "d": "2026-11-02",
+     "v": 62221.24
+    },
+    {
+     "d": "2026-11-03",
+     "v": 62495.83
+    },
+    {
+     "d": "2026-11-04",
+     "v": 63425.11
+    },
+    {
+     "d": "2026-11-05",
+     "v": 64006.94
+    },
+    {
+     "d": "2026-11-06",
+     "v": 63944.53
+    },
+    {
+     "d": "2026-11-09",
+     "v": 63478.64
+    },
+    {
+     "d": "2026-11-10",
+     "v": 63496.22
+    },
+    {
+     "d": "2026-11-11",
+     "v": 63334.53
+    },
+    {
+     "d": "2026-11-12",
+     "v": 64117.89
+    },
+    {
+     "d": "2026-11-13",
+     "v": 65333.78
+    },
+    {
+     "d": "2026-11-16",
+     "v": 65962.17
+    }
+   ],
+   "contributions": [
+    {
+     "date": "2026-01-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-02-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-03-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-04-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-05-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-06-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-07-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-08-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-09-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-10-15",
+     "amount": 450.0
+    },
+    {
+     "date": "2026-11-15",
+     "amount": 450.0
+    }
+   ]
+  },
+  {
+   "id": "demo-hsa",
+   "type": "hsa",
+   "name": "Health Savings",
+   "institution": "Example HSA Co",
+   "mask": "3333",
+   "balance": 2875.4,
+   "contributionLimit": 4400,
+   "history": [
+    {
+     "d": "2026-08-18",
+     "v": 2060.4
+    },
+    {
+     "d": "2026-08-25",
+     "v": 2126.9
+    },
+    {
+     "d": "2026-09-01",
+     "v": 2193.4
+    },
+    {
+     "d": "2026-09-08",
+     "v": 2259.9
+    },
+    {
+     "d": "2026-09-15",
+     "v": 2326.4
+    },
+    {
+     "d": "2026-09-22",
+     "v": 2392.9
+    },
+    {
+     "d": "2026-09-29",
+     "v": 2459.4
+    },
+    {
+     "d": "2026-10-06",
+     "v": 2525.9
+    },
+    {
+     "d": "2026-10-13",
+     "v": 2592.4
+    },
+    {
+     "d": "2026-10-20",
+     "v": 2618.9
+    },
+    {
+     "d": "2026-10-27",
+     "v": 2685.4
+    },
+    {
+     "d": "2026-11-03",
+     "v": 2751.9
+    },
+    {
+     "d": "2026-11-10",
+     "v": 2818.4
+    }
+   ],
+   "contributions": [
+    {
+     "date": "2026-01-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-02-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-03-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-04-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-05-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-06-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-07-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-08-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-09-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-10-01",
+     "amount": 250.0
+    },
+    {
+     "date": "2026-11-01",
+     "amount": 250.0
+    }
+   ],
+   "medical": [
+    {
+     "date": "2026-09-12",
+     "amount": 120.0
+    },
+    {
+     "date": "2026-10-03",
+     "amount": 45.5
+    },
+    {
+     "date": "2026-11-02",
+     "amount": 210.0
+    }
+   ]
+  }
+ ]
+}

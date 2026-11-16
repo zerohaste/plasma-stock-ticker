@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="items" type="String">
+      <label>Pages, one per line: SYMBOL, SYMBOL | news query, or @account-id</label>
+      <default>AAPL
+MSFT
+NVDA</default>
+    </entry>
+    <entry name="cycleSeconds" type="Int">
+      <label>Seconds per page (0 = don't cycle)</label>
+      <default>10</default>
+    </entry>
+    <entry name="pauseOnHover" type="Bool">
+      <label>Pause cycling while the pointer is over the card</label>
+      <default>true</default>
+    </entry>
+    <entry name="accountsFile" type="String">
+      <label>Accounts JSON file</label>
+      <default>~/.local/share/controllimit-hud/accounts.json</default>
+    </entry>
+    <entry name="refreshMarketSeconds" type="Int">
+      <label>Refresh interval during US market hours (seconds)</label>
+      <default>60</default>
+    </entry>
+    <entry name="refreshOffhoursSeconds" type="Int">
+      <label>Refresh interval outside market hours (seconds)</label>
+      <default>300</default>
+    </entry>
+  </group>
+</kcfg>

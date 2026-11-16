@@ -1,0 +1,7 @@
+account_id,date,amount,description,pending
+demo-checking,2026-11-07,-32.94,Coffee Spot,false
+demo-checking,2026-11-09,-15.99,StreamFlix,false
+demo-checking,2026-11-10,-52.51,Hardware Depot,false
+demo-checking,2026-11-12,-23.96,Coffee Spot,false
+demo-checking,2026-11-13,2150.0,ACME CORP PAYROLL,false
+demo-checking,2026-11-16,-42.18,Corner Grocery,true

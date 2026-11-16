@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Control Limit"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "A horizontal scrolling stock-ticker strip for the desktop.",
+        "Icon": "office-chart-line",
+        "Id": "com.controllimit.stockticker",
+        "License": "MIT",
+        "Name": "Stock Ticker",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0.0",
+        "Website": "https://controllimit.com"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

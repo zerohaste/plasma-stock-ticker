@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [{"Name": "Control Limit", "Website": "https://controllimit.com"}],
+        "Category": "Online Services",
+        "Description": "A square HUD card that cycles through stocks and your own account balances, with trends and a short cash forecast.",
+        "Icon": "office-chart-line",
+        "Id": "com.controllimit.stockcard",
+        "License": "MIT",
+        "Name": "HUD Card",
+        "ServiceTypes": ["Plasma/Applet"],
+        "Version": "2.0.0",
+        "Website": "https://controllimit.com"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
